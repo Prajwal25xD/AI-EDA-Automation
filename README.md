@@ -47,10 +47,6 @@ Run application:
 streamlit run app.py
 ```
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
 ## 👨‍💻 Author
 
 Prajwal Poojary
